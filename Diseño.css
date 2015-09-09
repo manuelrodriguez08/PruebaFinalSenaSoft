@@ -1,0 +1,48 @@
+h1{
+    font-family: chiller;
+    color: black;
+  }
+  
+  body{
+      
+      background-size: cover;
+  }
+  label{
+      font-family: mv boli;
+      color: black;
+  }
+  
+  fieldset{
+      
+      position: fixed;
+      background-color: #ffffff;
+  }
+  
+  input{
+      font-family: cursive;
+      float: start;
+      
+  }
+  div{
+      
+      
+  }
+  p{
+      font-family: Segoe Print;
+      
+  }
+  option{
+      
+       font-family: cursive;
+  }
+  select{
+      
+       font-family: cursive;
+  }
+  
+  table{
+      
+      font-family: cursive;
+  }
+  
+  
